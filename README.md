@@ -1,3 +1,3 @@
 # ProductLandingPage
 
-https://productlandingpage-tm.netlify.app/
+https://product-landing-page-tm.netlify.app/
